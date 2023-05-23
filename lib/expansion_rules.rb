@@ -104,7 +104,6 @@ module_function
   TAKE_PART_PAGE_FIELDS = (DEFAULT_FIELDS + %i[description details]).freeze
   TRAVEL_ADVICE_FIELDS = (DEFAULT_FIELDS + details_fields(:country, :change_description)).freeze
   WORLD_LOCATION_FIELDS = %i[content_id title schema_name locale analytics_identifier].freeze
-  # MULTI_PART_FIELDS = (DEFAULT_FIELDS + %i[part_title part_summary part_body]).freeze
 
   CUSTOM_EXPANSION_FIELDS_FOR_PEOPLE = (
     %i[

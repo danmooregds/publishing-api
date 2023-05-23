@@ -1,0 +1,42 @@
+{
+    "locale": "en",
+    "schema_name": "news_article",
+    "document_type": "news_story",
+    "publishing_app": "content-publisher",
+    "rendering_app": "government-frontend",
+    "update_type": "major",
+    "details": {
+        "political": false,
+        "change_history": [
+            {
+                "note": "First published.",
+                "public_timestamp": "2023-05-23 17:25:46 +0100"
+            }
+        ],
+        "attachments": [],
+        "body": "<p>dfgjnfghmfghm</p>\n"
+    },
+    "links": {
+        "government": [],
+        "primary_publishing_organisation": [
+            "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+        ],
+        "organisations": [
+            "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+        ]
+    },
+    "access_limited": {},
+    "auth_bypass_ids": [
+        "4dd89a36-5555-4229-a42b-957cc99d50fe"
+    ],
+    "public_updated_at": "2023-05-23 17:25:46 +0100",
+    "base_path": "/government/news/dfgjnfghmfghm",
+    "title": "dfgjnfghmfghm",
+    "routes": [
+        {
+            "path": "/government/news/dfgjnfghmfghm",
+            "type": "exact"
+        }
+    ],
+    "description": "dfgjnfghmfghm"
+}
