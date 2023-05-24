@@ -147,8 +147,6 @@ module_function
 
   CUSTOM_EXPANSION_FIELDS = (
     [
-      { document_type: :multi_part,
-        fields: MULTI_PART_FIELDS },
       { document_type: :redirect,
         fields: [] },
       { document_type: :gone,
